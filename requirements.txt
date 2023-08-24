@@ -1,0 +1,7 @@
+colorama==0.4.6
+prompt-toolkit==1.0.14
+Pygments==2.16.1
+PyInquirer==1.0.3
+regex==2023.8.8
+six==1.16.0
+wcwidth==0.2.6
